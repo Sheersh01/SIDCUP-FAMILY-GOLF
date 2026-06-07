@@ -55,7 +55,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 50%;
   background-color: #95c11e;
   position: fixed;
-  z-index: 99;
+  z-index: 999;
 }
 #cursor-blur {
   height: 400px;
